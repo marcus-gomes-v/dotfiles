@@ -4,6 +4,8 @@ dotfiles
 A collection of my personal dotfiles. 
 
 
+![tmux screenshot](screenshot.png)
+
 
 Installation
 ------------
