@@ -5,7 +5,7 @@ ZSH=$HOME/.oh-my-zsh
 # Look in ~/.oh-my-zsh/themes/
 # Optionally, if you set this to "random", it'll load a random theme each
 # time that soh-my-zsh is loaded.
-ZSH_THEME="agnoster"
+ZSH_THEME="edvardm"
 
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
@@ -78,3 +78,7 @@ export NVM_DIR="$HOME/.nvm"
   [ -s "/opt/homebrew/opt/nvm/etc/bash_completion.d/nvm" ] && \. "/opt/homebrew/opt/nvm/etc/bash_completion.d/nvm"
 
 screenfetch
+
+# ALIASES
+alias l="tree -CL 3"
+alias ll="ls -la"
