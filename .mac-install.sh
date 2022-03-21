@@ -8,6 +8,8 @@ brew install --cask brave-browser
 brew install tree
 brew install vscode
 brew install screenfetch
+brew install jq
+brew install --cask ngrok
 brew install stow
 brew install neovim
 
