@@ -19,3 +19,7 @@ pip3 install pynvim
 # Nerd Fonts
 brew tap homebrew/cask-fonts
 brew install --cask font-hack-nerd-font
+
+# Plug Vim
+curl -fLo ~/.local/share/nvim/site/autoload/plug.vim --create-dirs \
+https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
