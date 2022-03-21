@@ -119,4 +119,5 @@ alias 2="tree -CL 2"
 alias l="tree -CL 3"
 alias ll="ls -la"
 alias la="ls /Applications"
-
+alias chrome="open -a 'Google Chrome'"
+alias brave="open -a 'Brave Browser'"

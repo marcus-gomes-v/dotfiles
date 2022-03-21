@@ -9,3 +9,11 @@ brew install tree
 brew install vscode
 brew install screenfetch
 brew install stow
+brew install neovim
+
+# PIP Installation 
+pip3 install pynvim
+
+# Nerd Fonts
+brew tap homebrew/cask-fonts
+brew install --cask font-hack-nerd-font

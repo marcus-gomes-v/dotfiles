@@ -1,0 +1,3 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/Users/begomarcus/Workspace/study/next-posts/next-for-react-developers/pt-02-next-first-app'
