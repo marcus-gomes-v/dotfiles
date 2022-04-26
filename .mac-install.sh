@@ -12,6 +12,7 @@ brew install jq
 brew install --cask ngrok
 brew install stow
 brew install neovim
+brew install --cask postman
 
 # PIP Installation 
 pip3 install pynvim
