@@ -11,7 +11,7 @@ Plug 'airblade/vim-gitgutter'
 Plug 'ctrlpvim/ctrlp.vim' " fuzzy find files
 Plug 'scrooloose/nerdcommenter'
 "Plug 'prettier/vim-prettier', { 'do': 'yarn install' }
-Plug 'eliba2/vim-node-inspect'
+Plug 'mfussenegger/nvim-dap'
 
 
 Plug 'christoomey/vim-tmux-navigator'
