@@ -114,9 +114,9 @@ man() {
 
 # ALIASES
 
-alias 1="tree -CL 1"
-alias 2="tree -CL 2"
-alias l="tree -CL 3"
+alias 1="tree -I node_modules -CL 1"
+alias 2="tree -I node_modules -CL 2"
+alias l="tree -I node_modules -CL 3"
 alias ll="ls -la"
 alias la="ls /Applications"
 alias chrome="open -a 'Google Chrome'"

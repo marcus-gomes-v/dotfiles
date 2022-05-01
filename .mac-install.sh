@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Simple file to setup the extensions i most use on Mac OS X
-
 brew install tmux
+brew install imagemagick
 brew install nvm
 brew install --cask brave-browser
 brew install tree
@@ -12,6 +12,7 @@ brew install jq
 brew install --cask ngrok
 brew install stow
 brew install neovim
+
 
 # PIP Installation 
 pip3 install pynvim
