@@ -13,6 +13,8 @@ Plug 'scrooloose/nerdcommenter'
 "Plug 'prettier/vim-prettier', { 'do': 'yarn install' }
 "Plug 'mfussenegger/nvim-dap'
 Plug 'puremourning/vimspector'
+Plug 'SirVer/ultisnips'
+Plug 'mlaursen/vim-react-snippets'
 
 " puremourning/vimspector
 nnoremap <leader>da :call vimspector#Launch()<CR>
